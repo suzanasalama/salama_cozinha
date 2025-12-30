@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  30 DEC 2025 19:01
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  30 DEC 2025 19:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -74,8 +74,8 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \trimtop=\skip52
 \trimedge=\skip53
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/memoir/mem11.clo
-File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
+(/usr/local/texlive/2025/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 luaotfload | db : Font names database loaded from /Users/suzana/Library/texlive/
 2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip54
@@ -793,21 +793,21 @@ Class memoir Warning: \marginparsep is zero or negative on input line 164.
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
-Spine and edge margins: 55.87474pt and 46.55518pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Top and edge trims: 56.9055pt and 142.26378pt
+Page height and width: 512.1496pt by 312.9803pt
+Text height and width: 382pt by 202pt
+Spine and edge margins: 54.06021pt and 56.90549pt
+Upper and lower margins: 46.55905pt and 83.59055pt
+Headheight and headsep: 11.38109pt and 18.06749pt
+Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 0pt and 68.99792pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+Marginparsep and marginparwidth: 0pt and 50.50365pt
+Sidecapsep and sidecapwidth: 7pt and 128pt
+Sidebarhsep and sidebarwidth: 7pt and 128pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 128pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
 ) (./edlab-sections.sty) (./edlab-footnotes.sty
@@ -1123,6 +1123,34 @@ luaotfload | cache : Lookup cache loaded from /Users/suzana/Library/texlive/2025
 /texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: 
+(fontspec)             Font family 'FSBraboPro(0)' created for font 'FS Brabo
+(fontspec)             Pro' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:FS Brabo
+(fontspec)             Pro:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"name:FS
+(fontspec)             Brabo Pro:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"name:FS Brabo
+(fontspec)             Pro/B:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:FS Brabo
+(fontspec)             Pro/B:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"name:FS Brabo
+(fontspec)             Pro/I:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"name:FS Brabo
+(fontspec)             Pro/I:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"name:FS
+(fontspec)             Brabo Pro/BI:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"name:FS Brabo
+(fontspec)             Pro/BI:mode=node;script=latn;language=dflt;+smcp;"
+
+
+Package fontspec Info: 
 (fontspec)             Font family 'Formular(0)' created for font 'Formular'
 (fontspec)             with options [].
 (fontspec)              
@@ -1140,32 +1168,6 @@ Package fontspec Info:
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->"name:Formular/BI:mode=node;script=latn;language=dflt
 ;"
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Climate Crisis/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Climate Crisis/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Climate Crisis/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'ClimateCrisis(0)' created for font
-(fontspec)             'Climate Crisis' with options [].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Climate
-(fontspec)             Crisis:mode=node;script=latn;language=dflt;"
 
 
 Package fontspec Info: 
@@ -1441,29 +1443,48 @@ tex UTF-8 Latin hyphenation patterns
 (/usr/local/texlive/2025/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-la.
 tex)))
 
-[4] (./LIVRO.toc)
+[4]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FSBraboPro' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (./LIVRO.toc)
 
 [5] (./TEXTO.tex
 
 [6
 
-
 ]
 
-[7]
+[7
 
-[8]
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <5> on input line 11.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-))
-(./Z-colofon.tex
+)
+
+
+Class memoir Warning: The material used in the headers is too large
+(12.0pt) for the given head height (11.38109pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 26.
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[8
+
+]) (./Z-colofon.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
 
 [9
 
@@ -1499,38 +1520,42 @@ Package fontspec Info:
 (fontspec)             Pro/BI:mode=node;script=latn;language=dflt;+smcp;"
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <6> on input line 16.
 LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
  line 18.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/adforn/uornementsadf.fd
 File: uornements.fd v1.2 2024/09/29 font definitions for U/OrnementsADF.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 19.
+(Font)              <8> on input line 19.
 ))
 
 [11]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 484pt by 275pt
-Spine and edge margins: 55.87474pt and 46.55518pt
-Upper and lower margins: 47.53113pt and 65.97675pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Top and edge trims: 56.9055pt and 142.26378pt
+Page height and width: 512.1496pt by 312.9803pt
+Text height and width: 390pt by 202pt
+Spine and edge margins: 54.06021pt and 56.90549pt
+Upper and lower margins: 46.55905pt and 75.59055pt
+Headheight and headsep: 11.38109pt and 18.06749pt
+Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 10.95pt and 24.65518pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+Marginparsep and marginparwidth: 10pt and 36.90549pt
+Sidecapsep and sidecapwidth: 7pt and 128pt
+Sidebarhsep and sidebarwidth: 7pt and 128pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 128pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
+
+
+Class memoir Warning: The material used in the headers is too large
+(12.0pt) for the given head height (11.38109pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 80.
 
 \tf@toc=\write6
 
@@ -1543,26 +1568,27 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 25396 strings out of 475506
+ 25423 strings out of 475506
  125061,1373583 words of node,token memory allocated
- 1387 words of node memory still in use:
+ 1448 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 1 disc, 1 local_par, 7 glue, 4 kern, 1 penalty, 5 g
-lyph, 66 attribute, 185 glue_spec, 22 attribute_list, 3 shape, 5 write nodes
-   avail lists: 1:6,2:8252,3:80,4:36,5:1261,6:28,7:2996,8:3,9:434,10:13,11:309
- 47701 multiletter control sequences out of 65536+600000
- 100 fonts using 13392935 bytes
+lyph, 87 attribute, 186 glue_spec, 29 attribute_list, 3 shape, 5 write nodes
+   avail lists: 1:6,2:8224,3:154,4:58,5:1259,6:38,7:3004,8:3,9:478,10:17,11:309
+ 47728 multiletter control sequences out of 65536+600000
+ 105 fonts using 15260615 bytes
  85i,15n,99p,1375b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Mini
-onPro-Bold.otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/tex
-live/2025/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/te
-xlive/2025/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (11 pages, 204135 bytes).
+ers/suzana/Library/Fonts/FS Brabo Pro Regular.otf></Users/suzana/Library/Fonts/M
+inionPro-Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suz
+ana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2025/texmf-dist/fonts
+/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2025/texmf-dist/font
+s/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts
+/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (11 pages, 210068 bytes).
 
-PDF statistics: 86 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

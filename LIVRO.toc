@@ -1,4 +1,9 @@
 \thispagestyle {empty}
 \contentsline {part}{Receitas}{7}{}%
-\contentsline {chapter}{Tarte noix de coco}{9}{}%
+\contentsline {chapter}{Tarte noix de coco}{8}{}%
+\contentsline {section}{Ingredientes}{8}{}%
+\contentsline {section}{Modo de fazer}{8}{}%
+\contentsline {chapter}{Torta de coco}{9}{}%
+\contentsline {section}{Ingredientes}{9}{}%
+\contentsline {section}{Modo de fazer}{9}{}%
 \babel@toc {brazilian}{}\relax 
