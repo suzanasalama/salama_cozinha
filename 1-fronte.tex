@@ -1,0 +1,50 @@
+% Tamanhos
+% \tiny
+% \scriptsize
+% \footnotesize
+% \small 
+% \normalsize
+% \large 
+% \Large 
+% \LARGE 
+% \huge
+% \Huge
+
+% Posicionamento
+% \centering 
+% \raggedright
+% \raggedleft
+% \vfill 
+% \hfill 
+% \vspace{Xcm}   % Colocar * caso esteja no começo de uma página. Ex: \vspace*{...}
+% \hspace{Xcm}
+
+% Estilo de página
+% \thispagestyle{<<nosso>>}
+% \thispagestyle{empty}
+% \thispagestyle{plain}  (só número, sem cabeço)
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+
+% Compilador que permite usar fonte de sistema: xelatex, lualatex
+% Compilador que não permite usar fonte de sistema: latex, pdflatex
+
+% Definindo fontes
+% \setmainfont{Times New Roman}  % Todo o texto
+% \newfontfamily\avenir{Avenir}  % Contexto
+
+% \begin{textblock*}{2.625in}(0pt,0pt)%
+% \vspace*{-2cm}
+% \hspace*{-6.3cm}
+% \includegraphics[scale=0.7]{./FRONTE/FRONTE.pdf}
+% \end{textblock*}   
+
+%\thispagestyle{empty}
+
+\clearpage
+\begin{tikzpicture}[remember picture, overlay]
+\node at (4,-8.5) {\includegraphics[width=19cm]{./FRONTE/DOBLIN-1.jpg}}; 
+\end{tikzpicture}\clearpage\thispagestyle{empty}
+% \begin{tikzpicture}[remember picture,overlay]
+% \fill[black] (-3,3.5) rectangle (14,-21.5);
+% \end{tikzpicture}
+\clearpage

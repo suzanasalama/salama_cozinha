@@ -1,0 +1,80 @@
+% Tamanhos
+% \tiny
+% \scriptsize
+% \footnotesize
+% \small 
+% \normalsize
+% \large 
+% \Large 
+% \LARGE 
+% \huge
+% \Huge
+
+% Posicionamento
+% \centering 
+% \raggedright
+% \raggedleft
+% \vfill 
+% \hfill 
+% \vspace{Xcm}   % Colocar * caso esteja no começo de uma página. Ex: \vspace*{...}
+% \hspace{Xcm}
+
+% Estilo de página
+% \thispagestyle{<<nosso>>}
+% \thispagestyle{empty}
+% \thispagestyle{plain}  (só número, sem cabeço)
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+
+% Compilador que permite usar fonte de sistema: xelatex, lualatex
+% Compilador que não permite usar fonte de sistema: latex, pdflatex
+
+% Definindo fontes
+% \setmainfont{Times New Roman}  % Todo o texto
+% \newfontfamily\avenir{Avenir}  % Contexto
+
+\begingroup\thispagestyle{empty}\vspace*{.05\textheight} 
+
+              \formular
+              
+              \LARGE\noindent
+              Receitas
+
+              % \smallskip
+                      
+              % \large\noindent\textit{Diário de sanatório}
+
+              % \bigskip  
+              
+              % \Large\noindent\textbf{Alfred Döblin}
+              
+              %\vspace{3.4em}
+
+              % \vfill
+              % %\newfontfamily\minion{Minion Pro}
+              % {\fontsize{30}{40}%\selectfont\minion
+              % \small\noindent 
+              % Luis S.\,Krausz (\textit{tradução e introdução})\vspace{-0.3em}\\
+              % \noindent
+              % Alexandre Mazak (\textit{estabelecimento das notas})
+              % }
+              
+              % %\vspace{3.5em}
+              % \bigskip
+
+              % \noindent
+              % {\fontsize{30}{40}%\selectfont\minion
+              % \small\noindent 1ª edição}
+                      
+              \vfill
+              %\noindent\includegraphics[width=0.21\textwidth]{logo}
+              %\break{} 
+
+              {\newfontfamily\timesnewroman{Times New Roman}
+              {\noindent\fontsize{30}{40}\selectfont\timesnewroman hedra}}
+
+              \vspace{-0.1cm}
+              {\fontsize{30}{40}%\selectfont\minion
+              \scriptsize\noindent São Paulo\quad\the\year}
+
+\endgroup
+\pagebreak
