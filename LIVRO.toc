@@ -1,20 +1,4 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Introdução, \textit {por Luis S.\,Krausz}}{9}{}%
-\contentsline {section}{as diferentes experiências judaicas europeias}{10}{}%
-\contentsline {section}{ocidente «versus» oriente}{13}{}%
-\contentsline {section}{um universo estranho e atemorizante}{17}{}%
-\contentsline {section}{o mundo da tradição em desaparecimento}{19}{}%
-\contentsline {section}{a religiosidade em estado puro}{21}{}%
-\contentsline {section}{dilemas judaicos e a modernidade}{24}{}%
-\contentsline {part}{Viagem à Polônia}{27}{}%
-\contentsline {chapter}{Varsóvia}{29}{}%
-\contentsline {chapter}{O bairro judaico de Varsóvia\FN@sf@gobble@opt {\textls [20]{A ocupação judaica do bairro remonta a uma lei de 1821. No outono de 1940, a área foi incorporada ao gueto de Varsóvia, arrasado após a revolta ocorrida entre 19 de abril e 16 de maio de 1943. Depois da guerra, no local foi erguido o bairro de Muranów, onde hoje se encontram dois monumentos aos heróis do gueto e, desde 2013, o Museu Polin da História dos Judeus Polacos. Ao longo do capítulo, Döblin menciona também outros espaços de presença judaica em Varsóvia.}}}{93}{}%
-\contentsline {chapter}{Vilna\FN@sf@gobble@opt {Conhecida historicamente como \emph {Vilna} em iídiche e russo, \emph {Wilno} em polonês e, hoje, \emph {Vilnius} em lituano, a atual capital da Lituânia foi durante séculos um importante centro político e cultural do Leste Europeu. Integrou o Grão-Ducado da Lituânia, o Império Russo e, entre as duas guerras, a Polônia. Era chamada ``Jerusalém do Norte'' pela influência de sua comunidade judaica e a presença de uma das maiores autoridades do judaísmo europeu, o Gaon de Vilna, Eliyahu ben Schlome Zalman. No corpo do texto de Döblin foi mantida a forma original ``Vilna'', enquanto nas notas adotamos a forma corrente ``Vilnius''.}}{139}{}%
-\contentsline {chapter}{Lublin}{183}{}%
-\contentsline {chapter}{Lemberg\FN@sf@gobble@opt {\textls [10]{Conhecida historicamente como \emph {Lemberg} em alemão, \emph {Lwów} em polonês e, hoje, \emph {Lviv} em ucraniano, a cidade foi durante séculos um importante centro político e cultural da Galícia. Integrada sucessivamente ao Reino da Polônia, ao Império Austro-Húngaro, à Polônia entre as duas guerras e, depois, à Ucrânia, destacou-se por sua diversidade étnica e religiosa e foi um dos principais polos do judaísmo centro-europeu. No corpo do texto de Döblin foi mantida a forma original ``Lemberg'', enquanto nas notas adotamos a forma corrente ``Lviv''.}}}{207}{}%
-\contentsline {chapter}{Terra do petróleo\FN@sf@gobble@opt {\textls [-10]{O título original do capítulo, ``Das Naphtarevier'' ou ``A região da nafta'', faz referência tanto ao petróleo bruto quanto a um de seus destilados. A área de Drohobycz, rica em jazidas de petróleo e de cera mineral, passou a ser explorada industrialmente a partir da década de 1880 e, já na virada do século \textsc {xx}, fazia da Galícia um dos maiores produtores e exportadores mundiais de petróleo. O centro dessa ``Pensilvânia galiciana'' era Drohobycz, onde o óleo extraído em Borysław e Tustanowice era processado em refinarias. As duras condições de vida e trabalho em Borysław lhe renderam o apelido de ``inferno galiciano''.}}}{259}{}%
-\contentsline {chapter}{Cracóvia}{267}{}%
-\contentsline {chapter}{Zakopane}{307}{}%
-\contentsline {chapter}{Łódź}{327}{}%
-\contentsline {chapter}{Partida}{363}{}%
+\contentsline {part}{Receitas}{7}{}%
+\contentsline {chapter}{Tarte noix de coco}{9}{}%
 \babel@toc {brazilian}{}\relax 
