@@ -1,9 +1,37 @@
 \thispagestyle {empty}
-\contentsline {part}{Receitas}{7}{}%
-\contentsline {chapter}{Tarte noix de coco}{8}{}%
-\contentsline {section}{Ingredientes}{8}{}%
-\contentsline {section}{Modo de fazer}{8}{}%
-\contentsline {chapter}{Torta de coco}{9}{}%
-\contentsline {section}{Ingredientes}{9}{}%
-\contentsline {section}{Modo de fazer}{9}{}%
+\contentsline {section}{Ingrédients originaux}{8}{}%
+\contentsline {section}{Préparation adaptée}{8}{}%
+\contentsline {chapter}{Bolo de tâmaras}{9}{}%
+\contentsline {section}{Ingredientes originais}{9}{}%
+\contentsline {section}{Modo de preparo adaptado}{9}{}%
+\contentsline {section}{Ingrédients originaux}{12}{}%
+\contentsline {section}{Préparation adaptée}{12}{}%
+\contentsline {chapter}{Biscoitos de anis}{13}{}%
+\contentsline {section}{Ingredientes originais}{13}{}%
+\contentsline {section}{Modo de preparo adaptado}{13}{}%
+\contentsline {section}{Ingrédients originaux}{16}{}%
+\contentsline {section}{Préparation adaptée}{16}{}%
+\contentsline {chapter}{Torta suíça de coco}{17}{}%
+\contentsline {section}{Ingredientes originais}{17}{}%
+\contentsline {section}{Modo de preparo adaptado}{17}{}%
+\contentsline {section}{Ingrédients originaux}{20}{}%
+\contentsline {section}{Préparation adaptée}{20}{}%
+\contentsline {chapter}{Kobeba}{21}{}%
+\contentsline {section}{Ingredientes originais}{21}{}%
+\contentsline {section}{Modo de preparo adaptado}{21}{}%
+\contentsline {section}{Ingrédients originaux}{24}{}%
+\contentsline {section}{Préparation adaptée}{24}{}%
+\contentsline {chapter}{Bolo de semolina}{25}{}%
+\contentsline {section}{Ingredientes originais}{25}{}%
+\contentsline {section}{Modo de preparo adaptado}{25}{}%
+\contentsline {section}{Ingrédients originaux}{28}{}%
+\contentsline {section}{Préparation adaptée}{28}{}%
+\contentsline {chapter}{Torta de chocolate}{29}{}%
+\contentsline {section}{Ingredientes originais}{29}{}%
+\contentsline {section}{Modo de preparo adaptado}{29}{}%
+\contentsline {section}{Ingrédients originaux}{32}{}%
+\contentsline {section}{Préparation adaptée}{32}{}%
+\contentsline {chapter}{Atayef}{33}{}%
+\contentsline {section}{Ingredientes originais}{33}{}%
+\contentsline {section}{Modo de preparo adaptado}{33}{}%
 \babel@toc {brazilian}{}\relax 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  30 DEC 2025 19:39
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  3 MAY 2026 20:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1410,11 +1410,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 \openout2 = INPUTS.aux
 (./INPUTS.tex (./1-fronte.tex
-<./fronte/IMAGEM-2.png, id=4, 635.37375pt x 631.35875pt>
-File: ./fronte/IMAGEM-2.png Graphic file (type png)
-<use ./fronte/IMAGEM-2.png>
-Package luatex.def Info: ./fronte/IMAGEM-2.png  used on input line 45.
-(luatex.def)             Requested size: 284.52756pt x 282.74081pt.
+<./recettes/edités/Couverture (1).jpg, id=4, 2133.9725pt x 2786.41pt>
+File: ./recettes/edités/Couverture (1).jpg Graphic file (type jpg)
+<use ./recettes/edités/Couverture (1).jpg>
+Package luatex.def Info: ./recettes/edités/Couverture (1).jpg  used on input l
+ine 45.
+(luatex.def)             Requested size: 227.62204pt x 297.1948pt.
 
 
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1425,7 +1426,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 
-<./fronte/IMAGEM-2.png>]
+<./recettes/edités/Couverture (1).jpg>]
 
 [2
 
@@ -1433,6 +1434,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 ]) (./3-rosto.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FSBraboPro' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
@@ -1443,27 +1448,32 @@ tex UTF-8 Latin hyphenation patterns
 (/usr/local/texlive/2025/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-la.
 tex)))
 
-[4]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `FSBraboPro' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- (./LIVRO.toc)
+[4] (./LIVRO.toc)
 
-[5] (./TEXTO.tex
+[5] (./TEXTO_GATEAU_DATTES.tex
 
 [6
 
 ]
+<./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg, id=31, 1767.6037
+4pt x 2996.19376pt>
+File: ./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg Graphic file
+ (type jpg)
+<use ./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg>
+Package luatex.def Info: ./recettes/edités/Gateau aux dattes et Mousse chocol
+at.jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 385.81569pt.
+
 
 [7
 
-]
+<./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              <5> on input line 18.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -1472,7 +1482,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 Class memoir Warning: The material used in the headers is too large
 (12.0pt) for the given head height (11.38109pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 26.
+(in both cases you will find help in the memoir manual). on input line 30.
 
 
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1480,7 +1490,9 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 [8
 
-]) (./Z-colofon.tex
+
+
+]) (./TEXTO_BISCUITS_ANIS.tex
 
 
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1491,6 +1503,202 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 ]
 
 [10]
+<./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg, id=45, 1824.817
+5pt x 3212.0pt>
+File: ./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg Graphic fil
+e (type jpg)
+<use ./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg>
+Package luatex.def Info: ./recettes/edités/Biscuit vanille et Biscuit à l'a
+nis.jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 400.61682pt.
+
+
+[11
+
+<./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[12
+
+
+
+]) (./TEXTO_TARTE_COCO.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[13
+
+]
+
+[14]
+<./recettes/edités/Tarte suisse de coco (versão 1).jpg, id=59, 1810.765pt x
+ 3216.015pt>
+File: ./recettes/edités/Tarte suisse de coco (versão 1).jpg Graphic file (t
+ype jpg)
+<use ./recettes/edités/Tarte suisse de coco (versão 1).jpg>
+Package luatex.def Info: ./recettes/edités/Tarte suisse de coco (versão 1).
+jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 404.25822pt.
+
+
+[15
+
+<./recettes/edités/Tarte suisse de coco (versão 1).jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[16
+
+
+
+]) (./TEXTO_KOBEBA.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[17
+
+]
+
+[18]
+<./recettes/edités/Kobéba.jpg, id=72, 1412.27625pt x 2509.375pt>
+File: ./recettes/edités/Kobéba.jpg Graphic file (type jpg)
+<use ./recettes/edités/Kobéba.jpg>
+Package luatex.def Info: ./recettes/edités/Kobéba.jpg  used on input line 6.
+
+(luatex.def)             Requested size: 227.62204pt x 404.41824pt.
+
+
+[19
+
+<./recettes/edités/Kobéba.jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[20
+
+
+
+]) (./TEXTO_BASBOUSSA.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[21
+
+]
+
+[22]
+<./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg, id=86
+, 1835.85875pt x 3141.7375pt>
+File: ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg G
+raphic file (type jpg)
+<use ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg>
+Package luatex.def Info: ./recettes/edités/Gateau choc Ziza, Basboussa et Ata
+yef (parte 1).jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 389.50432pt.
+
+
+[23
+
+<./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[24
+
+
+
+]) (./TEXTO_SABLE.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[25
+
+]
+
+[26]
+<./recettes/edités/Pain d'Espagne et sablé chocolat.jpg, id=99, 1685.29625p
+t x 3014.26125pt>
+File: ./recettes/edités/Pain d'Espagne et sablé chocolat.jpg Graphic file (
+type jpg)
+<use ./recettes/edités/Pain d'Espagne et sablé chocolat.jpg>
+Package luatex.def Info: ./recettes/edités/Pain d'Espagne et sablé chocolat
+.jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 407.09169pt.
+
+
+[27
+
+<./recettes/edités/Pain d'Espagne et sablé chocolat.jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[28
+
+
+
+]) (./TEXTO_ATAYEF.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[29
+
+]
+
+[30]
+<./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg, id=11
+2, 1891.065pt x 3174.86125pt>
+File: ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg G
+raphic file (type jpg)
+<use ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg>
+Package luatex.def Info: ./recettes/edités/Gateau choc Ziza, Basboussa et Ata
+yef (parte 2).jpg  used on input line 6.
+(luatex.def)             Requested size: 227.62204pt x 382.12958pt.
+
+
+[31
+
+<./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg>]
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[32
+
+
+
+]) (./Z-colofon.tex
+
+
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[33
+
+]
+
+[34]
 
 Package fontspec Info: 
 (fontspec)             Font family 'MinionPro(1)' created for font 'Minion
@@ -1530,7 +1738,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 19.
 ))
 
-[11]
+[35]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1568,27 +1776,27 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 25423 strings out of 475506
+ 25554 strings out of 475506
  125061,1373583 words of node,token memory allocated
- 1448 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 disc, 1 local_par, 7 glue, 4 kern, 1 penalty, 5 g
-lyph, 87 attribute, 186 glue_spec, 29 attribute_list, 3 shape, 5 write nodes
-   avail lists: 1:6,2:8224,3:154,4:58,5:1259,6:38,7:3004,8:3,9:478,10:17,11:309
- 47728 multiletter control sequences out of 65536+600000
- 105 fonts using 15260615 bytes
+ 1833 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 8 disc, 1 local_par, 7 glue, 3 kern, 1 penalty, 18 
+glyph, 170 attribute, 186 glue_spec, 57 attribute_list, 3 shape, 5 write nodes
+   avail lists: 1:5,2:7078,3:152,4:55,5:915,6:36,7:2486,8:3,9:474,10:16,11:157
+ 47808 multiletter control sequences out of 65536+600000
+ 107 fonts using 15800631 bytes
  85i,15n,99p,1375b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/FS Brabo Pro Regular.otf></Users/suzana/Library/Fonts/M
-inionPro-Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suz
-ana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2025/texmf-dist/fonts
-/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2025/texmf-dist/font
-s/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts
-/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (11 pages, 210068 bytes).
+ers/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Mini
+onPro-Bold.otf></Users/suzana/Library/Fonts/FS Brabo Pro Regular.otf></Users/suz
+ana/Library/Fonts/FS Brabo Pro Italic.otf></usr/local/texlive/2025/texmf-dist/fo
+nts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2025/texmf-dist/f
+onts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fo
+nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (35 pages, 23167792 bytes).
 
-PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+PDF statistics: 174 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -244,8 +244,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
-INPUT ./fronte/IMAGEM-2.png
-INPUT ./fronte/IMAGEM-2.png
+INPUT ./recettes/edités/Couverture (1).jpg
+INPUT ./recettes/edités/Couverture (1).jpg
 INPUT /Users/suzana/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT /Users/suzana/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
@@ -255,7 +255,9 @@ INPUT ./PRETAS.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-la.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-la.tex
 INPUT ./LIVRO.toc
-INPUT ./TEXTO.tex
+INPUT ./TEXTO_GATEAU_DATTES.tex
+INPUT ./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg
+INPUT ./recettes/edités/Gateau aux dattes et Mousse chocolat.jpg
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
@@ -267,6 +269,24 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
+INPUT ./TEXTO_BISCUITS_ANIS.tex
+INPUT ./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg
+INPUT ./recettes/edités/Biscuit vanille et Biscuit à l'anis.jpg
+INPUT ./TEXTO_TARTE_COCO.tex
+INPUT ./recettes/edités/Tarte suisse de coco (versão 1).jpg
+INPUT ./recettes/edités/Tarte suisse de coco (versão 1).jpg
+INPUT ./TEXTO_KOBEBA.tex
+INPUT ./recettes/edités/Kobéba.jpg
+INPUT ./recettes/edités/Kobéba.jpg
+INPUT ./TEXTO_BASBOUSSA.tex
+INPUT ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg
+INPUT ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 1).jpg
+INPUT ./TEXTO_SABLE.tex
+INPUT ./recettes/edités/Pain d'Espagne et sablé chocolat.jpg
+INPUT ./recettes/edités/Pain d'Espagne et sablé chocolat.jpg
+INPUT ./TEXTO_ATAYEF.tex
+INPUT ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg
+INPUT ./recettes/edités/Gateau choc Ziza, Basboussa et Atayef (parte 2).jpg
 INPUT ./Z-colofon.tex
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
